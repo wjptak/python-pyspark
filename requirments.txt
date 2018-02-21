@@ -3,7 +3,7 @@ pandas
 scipy
 numpy
 protobuf
-jupyter
+jupyterlab
 tables
 pyarango
 SQLAlchemy
